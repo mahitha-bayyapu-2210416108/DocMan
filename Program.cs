@@ -3,7 +3,7 @@
             static void Main(string[] args)
             {
                 // Replace with your ChatGPT API key
-                string apiKey = "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";
+                
                 // Create a ChatGPTClient instance with the API key
                 var chatGPTClient = new ChatGPTClient(apiKey);
 
